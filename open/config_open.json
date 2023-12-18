@@ -5,142 +5,142 @@
         "key": "kunyu77",
         "name": "🟢 七七",
         "type": 3,
-        "api": "assets://js/kunyu77_open.js"
+        "api": "kunyu77_open.js"
       },
        {
         "key": "wogg",
         "name": "🔵 玩偶",
         "type": 3,
-        "api": "assets://js/wogg.js",
+        "api": "wogg.js",
         "ext": "https://ghproxy.com/raw.githubusercontent.com/omiitop/TV/main/token.txt"
       },
        {
         "key": "czzy",
         "name": "🟢 厂长",
         "type": 3,
-        "api": "assets://js/czzy_open.js"
+        "api": "czzy_open.js"
       },
        {
         "key": "ngsp",
         "name": "🟢 南瓜",
         "type": 3,
-        "api": "assets://js/ng_open.js"
+        "api": "ng_open.js"
       },
        {
         "key": "zxzj",
         "name": "🟢 在线",
         "type": 3,
-        "api": "assets://js/zxzj_open.js"
+        "api": "zxzj_open.js"
       },
       {
         "key": "0809",
         "name": "🟢 听歌",
         "type": 3,
-        "api": "assets://js/dj0898_open.js"
+        "api": "dj0898_open.js"
       },
      {
         "key": "tuxiaobei",
         "name": "🟢 小贝",
         "type": 3,
-        "api": "assets://js/tuxiaobei_open.js"
+        "api": "tuxiaobei_open.js"
       },
      {
         "key": "cntv",
         "name": "🟢 剧场",
         "type": 3,
-        "api": "assets://js/cntv_open.js"
+        "api": "cntv_open.js"
       },
      {
         "key": "ubestkid",
         "name": "🟢 乐虎",
         "type": 3,
-        "api": "assets://js/ubestkid_open.js"
+        "api": "ubestkid_open.js"
       },
        {
         "key": "boosj",
         "name": "🟢 童趣",
         "type": 3,
-        "api": "assets://js/boosj_open.js"
+        "api": "boosj_open.js"
       },
         {
         "key": "mybl",
         "name": "🟢 哔哩",
         "type": 3,
-        "api": "assets://js/mybili_open.js"
+        "api": "mybili_open.js"
       },
        {
         "key": "ikanbot",
         "name": "🟢 爱看",
         "type": 3,
-        "api": "assets://js/ikanbot_open.js"
+        "api": "ikanbot_open.js"
       },
       {
         "key": "kkys",
         "name": "🟢 快看",
         "type": 3,
-        "api": "assets://js/kkys_open.js"
+        "api": "kkys_open.js"
       },
          {
         "key": "libvio",
         "name": "🟢 立波",
         "type": 3,
-        "api": "assets://js/libvio_open.js"
+        "api": "libvio_open.js"
       },
        { 
         "key": "nivod", 
         "name": "🟡 泥巴✈", 
         "type": 3, 
-        "api": "assets://js/nivod_op.js",
+        "api": "nivod_op.js",
         "ext":"做爱" 
        },
       {
         "key": "duboku",
         "name": "🟡 独播✈",
         "type": 3,
-        "api": "assets://js/duboku_open.js"
+        "api": "duboku_open.js"
       },
       {
         "key": "duboku2",
         "name": "🟢 独播",
         "type": 3,
-        "api": "assets://js/duboku2_open.js"
+        "api": "duboku2_open.js"
       },
       {
           "key": "subaibai",
           "name": "🟢 素白",
           "type": 3,
-          "api": "assets://js/subaibai_open.js"
+          "api": "subaibai_open.js"
       },
       {
         "key": "18av",
         "name": "🟡 仙女",
         "type": 3,
-        "api": "assets://js/18av_open.js"
+        "api": "18av_open.js"
       },
       {
         "key": "kuqimv",
         "name": "🟢 酷奇",
         "type": 3,
-        "api": "assets://js/kuqimv_open.js"
+        "api": "kuqimv_open.js"
       },
       {
         "key": "230ts",
         "name": "🟢 听书",
         "type": 3,
-        "api": "assets://js/230ts_open.js"
+        "api": "230ts_open.js"
       },
       {
         "key": "xiaoya-tv",
         "name": "🔵 小雅",
         "type": 3,
-        "api": "assets://js/xiaoya.js",
+        "api": "xiaoya.js",
         "ext": "http://xy.omii.link/vod1/GqvV1AU6"
       },
       {
         "key": "bilibili⋘",
         "name": "🟢 BiliBili",
         "type": 3,
-        "api": "assets://js/bilibili.js",
+        "api": "bilibili.js",
         "ext": "http://xy.omii.link/bilibili/GqvV1AU6"
       }
     ]
@@ -151,7 +151,7 @@
         "key": "alist",
         "name": "Alist",
         "type": 40,
-        "api": "assets://js/alist_open.js",
+        "api": "alist_open.js",
         "ext": [
           {
             "name": "小雅",
