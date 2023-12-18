@@ -5,7 +5,7 @@
         "key": "kunyu77",
         "name": "🟢 七七",
         "type": 3,
-        "api": "kunyu77_open.js"
+        "api": "assets://js/kunyu77_open.js"
       },
        {
         "key": "wogg",
